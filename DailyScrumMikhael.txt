@@ -1,0 +1,105 @@
+Scrum Master = Mikhael
+Product Owner = Alvin Hardi
+Development Team = Raynald & Kendrick Salim
+
+1/12/19
+Mikhael
+1. kemarin mengerjakan apa?
+=  Melakukan Meeting untuk membahas projek
+2. Apa yang dikerjakan hari ini?
+=  membuat akun GitHub dan Trello
+3. ada masalah dalam pengerjaan tugas?
+=  tidak ada
+Raynald
+1. kemarin mengerjakan apa?
+=  Melakukan Meeting untuk membahas projek
+2. Apa yang dikerjakan hari ini?
+=  a. membuat akun GitHub dan Trello
+   b. Install node.js,git,bespoke dan Grunt. kemudian melakukan git push ke Repository
+3. ada masalah dalam pengerjaan tugas?
+=  tidak ada
+Alvin Hardi
+1. kemarin mengerjakan apa?
+=  Melakukan Meeting untuk membahas projek
+2. Apa yang dikerjakan hari ini?
+=  a. membuat akun GitHub dan Trello
+   b. Menambah Card pada trello yaitu Tema aplikasi tentang jurusan
+3. ada masalah dalam pengerjaan tugas?
+=  tidak ada
+Kendrick Salim
+1. kemarin mengerjakan apa?
+=  Melakukan Meeting untuk membahas projek
+2. Apa yang dikerjakan hari ini?
+=  membuat akun GitHub dan Trello
+3. ada masalah dalam pengerjaan tugas?
+=  tidak ada
+
+2/12/19
+Mikhael
+1. kemarin mengerjakan apa?
+=  membuat akun GitHub dan Trello
+2. Apa yang dikerjakan hari ini?
+=  a. Install node.js,git,bespoke dan Grunt
+   b. Menambah Card pada Trello
+3. ada masalah dalam pengerjaan tugas?
+=  terjadi error pada saat install
+Raynald
+1. kemarin mengerjakan apa?
+=  a. membuat akun GitHub dan Trello
+   b. Install node.js,git,bespoke dan Grunt. kemudian melakukan git push ke Repository
+2. Apa yang dikerjakan hari ini?
+=  Membuat Tema Presentasi yaitu tentang jurusan
+3. ada masalah dalam pengerjaan tugas?
+=  tidak ada
+Alvin Hardi
+1. kemarin mengerjakan apa?
+=  a. membuat akun GitHub dan Trello
+   b. Menambah Card pada trello yaitu Tema aplikasi tentang jurusan
+2. Apa yang dikerjakan hari ini?
+=  a. Install node.js,git,bespoke dan Grunt
+   b. reply acc pada card trello
+3. ada masalah dalam pengerjaan tugas?
+=  terjadi error pada saat install
+Kendrick Salim
+1. kemarin mengerjakan apa?
+=  membuat akun GitHub dan Trello
+2. Apa yang dikerjakan hari ini?
+=  a. Install node.js,git,bespoke dan Grunt
+   b. Post Perguruan tinggi/universitas di trello
+3. ada masalah dalam pengerjaan tugas?
+=  terjadi error pada saat install
+
+3/12/19
+Mikhael
+1. kemarin mengerjakan apa?
+=  a. Install node.js,git,bespoke dan Grunt
+   b. Menambah Card pada Trello
+2. Apa yang dikerjakan hari ini?
+=  Memindahkan card yang selesai dari sprint ke done
+3. ada masalah dalam pengerjaan tugas?
+=  Grunt error
+Raynald
+1. kemarin mengerjakan apa?
+=  Membuat Tema Presentasi yaitu tentang jurusan
+2. Apa yang dikerjakan hari ini?
+=  Melakukan design
+3. ada masalah dalam pengerjaan tugas?
+=  Tidak ada
+Alvin Hardi
+1. kemarin mengerjakan apa?
+=  a. membuat akun GitHub dan Trello
+   b. Menambah Card pada trello yaitu Tema aplikasi tentang jurusan
+2. Apa yang dikerjakan hari ini?
+=  mengecek design yang sudah diberikan
+3. ada masalah dalam pengerjaan tugas?
+=  Design masih kurang bagus
+Kendrick Salim
+1. kemarin mengerjakan apa?
+=  a. Install node.js,git,bespoke dan Grunt
+   b. Post Perguruan tinggi/universitas di trello
+2. Apa yang dikerjakan hari ini?
+=  Membantu Raynald dalam pengerjaan design
+3. ada masalah dalam pengerjaan tugas?
+=  tidak ada
+
+
