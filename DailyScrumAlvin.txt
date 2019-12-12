@@ -1,0 +1,71 @@
+scrum master = Alvin Hardi
+Product Owner = Raynald
+Development Team = Mikhael & Kendrick Salim
+
+10/12/19
+Alvin Hardi
+1. kemarin mengerjakan apa?
+=  tidak ada
+2. Apa yang dikerjakan hari ini?
+=  cek hasil speaker View
+3. ada masalah dalam pengerjaan tugas?
+=  tidak ada
+Raynald
+1. kemarin mengerjakan apa?
+=  tidak ada
+2. Apa yang dikerjakan hari ini?
+=  a. Buat Card baru untuk menampilkan file PDF di Trello
+   b. cek hasil speaker View
+3. ada masalah dalam pengerjaan tugas?
+=  Tidak ada
+Kendrick Salim
+1. kemarin mengerjakan apa?
+=  tidak ada
+2. Apa yang dikerjakan hari ini?
+=  cek hasil speaker View
+3. ada masalah dalam pengerjaan tugas?
+=  tidak ada
+Mikhael
+1. kemarin mengerjakan apa?
+=  tidak ada
+2. Apa yang dikerjakan hari ini?
+=  a. membuat fitur Speaker view
+   b. Push ke repository
+3. ada masalah dalam pengerjaan tugas?
+=  tidak ada
+
+11/12/19
+Alvin Hardi
+1. kemarin mengerjakan apa?
+=  cek hasil speaker View
+2. Apa yang dikerjakan hari ini?
+=  cek hasil fitur presentasi didalam presentasi
+3. ada masalah dalam pengerjaan tugas?
+=  tidak ada
+Raynald
+1. kemarin mengerjakan apa?
+=  a. Buat Card baru untuk fitur presentasi didalam presentasi
+   b. cek hasil speaker View
+2. Apa yang dikerjakan hari ini?
+=  a. cek hasil fitur presentasi didalam presentasi
+   b. upload Burndown chart
+3. ada masalah dalam pengerjaan tugas?
+=  Tidak ada
+Kendrick Salim
+1. kemarin mengerjakan apa?
+=  cek hasil speaker View
+2. Apa yang dikerjakan hari ini?
+=  a. membuat fitur presentasi didalam presentasi
+   b. push ke repository
+3. ada masalah dalam pengerjaan tugas?
+=  tidak ada
+Mikhael
+1. kemarin mengerjakan apa?
+=  a. membuat fitur Speaker view
+   b. Push ke repository
+2. Apa yang dikerjakan hari ini?
+=  cek hasil fitur presentasi didalam presentasi
+3. ada masalah dalam pengerjaan tugas?
+=  tidak ada
+
+12/12/19 tidak ada
